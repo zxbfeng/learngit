@@ -4,4 +4,4 @@ copyright by GPL
 will push to the remote repo
 Create a new branch is fast
 Creating a new branch is quick and simple.
-doing current job
+doing current job.that is right.
