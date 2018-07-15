@@ -3,3 +3,4 @@ Git is free software. so it is free.
 copyright by GPL
 will push to the remote repo
 Create a new branch is fast
+Create a new branch is fast and simple
